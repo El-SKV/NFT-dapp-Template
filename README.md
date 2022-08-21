@@ -3,6 +3,8 @@
 
  # How to run it ?
 
+ Rename the .env.exemple to .env.local
+
  To run the Dapp locally, you would need to run
 
  - npm run dev 
